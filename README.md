@@ -23,11 +23,4 @@ npm install
 npm run dev
 
 
-Save it (**Ctrl + S**)
 
-Then go back to terminal and run:
-
-```powershell
-git add .
-git commit -m "Updated README"
-git push
